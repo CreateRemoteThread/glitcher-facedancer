@@ -1,4 +1,4 @@
-20246140922309450
+20247803882728373
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85788,6 +85788,13 @@ shield_rsrc
 OSC_CSTNE12M0G550000R0
 
 
+0
+3
+3
+shield_rsrc
+PinHeader_Switch
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
 0
 3
 3
