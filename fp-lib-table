@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "shield_rsrc")(type "KiCad")(uri "${KIPRJMOD}/rsrc/shield_rsrc.pretty")(options "")(descr ""))
+)
