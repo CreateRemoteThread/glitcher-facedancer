@@ -1,4 +1,4 @@
-20247803882728373
+20249466864970890
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85796,8 +85796,8 @@ PinHeader_Switch
 Through hole straight pin header, 1x03, 2.54mm pitch, single row
 Through hole pin header THT 1x03 2.54mm single row
 0
-3
-3
+2
+2
 shield_rsrc
 QFP50P700X700X120-32N
 
@@ -85805,6 +85805,13 @@ QFP50P700X700X120-32N
 0
 32
 32
+shield_rsrc
+RF2-04A-T-00-50-G
+
+
+0
+5
+5
 shield_rsrc
 SAMTEC_USB-A-S-X-X-SM2
 
